@@ -1,0 +1,40 @@
+Diego Lopes da Silva (0201392511001)
+.NET é uma plataforma gratuita que permite desenvolver vários tipos de aplicativo, utilizando diversas linguagens para sua criação (Como o C#).
+- É multiplataforma
+- É livre
+
+Pertence à microsoft, o que significa que tem alta compatibilidade com windows durante seu processo de instalação, exigindo pouco a nenhum ajuste pós download.
+Embora o windows seja ideal, ele pode ser utilizado em outros sistemas operacionais.
+Ser da microsoft também reflete segurança do produto e sua credibilidade efetiva.
+
+Possui sistema de GC (Garbage Colector) integrado automaticamente, que é efetivo no processo de economizar memória evitando lixo digital. 
+
+Pontos de design do .NET:
+- Completa produtividade: Possui diversas bibliotecas, linguagens e ferramentas	que permitem um melhor desempenho desenvolvedor.
+- Possui o SAFE CODE que opera sobre o gerenciamento CLR (Common Language Runtime), que garante segurança na memória e tipagem, evitando erros (por isso seguro).
+- Possui o UNFASE CODE que permite mais liberdade para o usuário no desenvolvimento, com otimizações manuais adicionais. Permite por exemplo o uso de ponteiros e manipulação de memória.
+- Suporta tanto código estático quanto dinâmico.
+- Possui interoperabilidade de código nativo e intrínsecos de hardware eficiente (baixo custo, alta fidelidade).
+- Código portatil (Tanto pra OS quanto pra Chip)
+- Adaptavel a diferentes usos da programação (Como uso pra nuvem, cliente ou até jogos)
+- Utiliza padrões de setor (soluções reutilizáveis, testadas e aprovadas para problemas recorrentes no desenvolvimento de software) como Opentelemetry e gRPC.
+
+Componentes do .NET
+Runtime = Executa código
+Biblioteca = Funcionalidades utilitarias (Como Json)
+Compilador = Compila código fonte das linguagens
+SDK (Software Development Kit) e outras = Cria e monitora fluxos de trabalho
+Stacks de aplicativos = Conjunto que permitem desenvolver aplicativos (como o ASP.NET)
+
+C# -> É a principal linguagem do .NET, e possui orientação a objeto.
+.NET -> Uma das caracteristicas mais definidoras é seu sistema de memória com a utilização do GC presente em suas linguagens.
+
+Tipos no .NET: 
+| Primitivos |
+-> São considerados como tipo de valor e podem ser definidos pelo usuário, com semântica semelhante.
+
+Paradigma da reflexão:
+-> Permite que uma parte do programa consulte e invoque outro dinâmicamente em termos como assemblies, tipos e membros.
+
+Exceção:
+-> Exceções são o modelo principal de tratamento de erros no .NET, que tem o beneficio de que as informações de erro não precisam ser representadas em assinaturas de método ou tratadas por todos os métodos.
