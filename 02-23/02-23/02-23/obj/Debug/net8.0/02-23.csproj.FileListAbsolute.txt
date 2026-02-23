@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Tecnicas-de-prog-2\02-23\02-23\02-23\bin\Debug\net8.0\02-23.exe
+C:\xampp\htdocs\Tecnicas-de-prog-2\02-23\02-23\02-23\bin\Debug\net8.0\02-23.deps.json
+C:\xampp\htdocs\Tecnicas-de-prog-2\02-23\02-23\02-23\bin\Debug\net8.0\02-23.runtimeconfig.json
+C:\xampp\htdocs\Tecnicas-de-prog-2\02-23\02-23\02-23\bin\Debug\net8.0\02-23.dll
+C:\xampp\htdocs\Tecnicas-de-prog-2\02-23\02-23\02-23\bin\Debug\net8.0\02-23.pdb
+C:\xampp\htdocs\Tecnicas-de-prog-2\02-23\02-23\02-23\obj\Debug\net8.0\02-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Tecnicas-de-prog-2\02-23\02-23\02-23\obj\Debug\net8.0\02-23.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Tecnicas-de-prog-2\02-23\02-23\02-23\obj\Debug\net8.0\02-23.AssemblyInfo.cs
+C:\xampp\htdocs\Tecnicas-de-prog-2\02-23\02-23\02-23\obj\Debug\net8.0\02-23.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Tecnicas-de-prog-2\02-23\02-23\02-23\obj\Debug\net8.0\02-23.sourcelink.json
+C:\xampp\htdocs\Tecnicas-de-prog-2\02-23\02-23\02-23\obj\Debug\net8.0\02-23.dll
+C:\xampp\htdocs\Tecnicas-de-prog-2\02-23\02-23\02-23\obj\Debug\net8.0\refint\02-23.dll
+C:\xampp\htdocs\Tecnicas-de-prog-2\02-23\02-23\02-23\obj\Debug\net8.0\02-23.pdb
+C:\xampp\htdocs\Tecnicas-de-prog-2\02-23\02-23\02-23\obj\Debug\net8.0\02-23.genruntimeconfig.cache
+C:\xampp\htdocs\Tecnicas-de-prog-2\02-23\02-23\02-23\obj\Debug\net8.0\ref\02-23.dll

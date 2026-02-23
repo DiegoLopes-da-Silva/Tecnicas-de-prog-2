@@ -1,0 +1,9 @@
+var x = (vazio) / o 0 com risquinho no meio, se eu usar 0/ é dele que eu to falando
+nullable type: 
+int?i = null; (Precisa ter o ?)
+int a = i; (Não pode porque eles são de tipo diferente)
+int a = i?? 0/;
+
+nullable reference type:
+string name = null;
+string? name = null;
